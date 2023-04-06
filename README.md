@@ -1,6 +1,7 @@
 # rust-in-action-202303
 《rust实战》随书源码，Rust in action code
 # from
+- https://github.com/rust-in-action/code
 - https://github.com/jmpoep/code-1st-edition
 
 ![](https://images.manning.com/180/240/resize/book/5/17c1124-214f-4307-b4fe-fd961a9a31f4/McNamara-Rust-MEAP-HI.png)
