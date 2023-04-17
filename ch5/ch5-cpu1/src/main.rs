@@ -36,8 +36,8 @@ struct CPU {
     };
 
     cpu.current_operation = 0x8014;
-    cpu.registers[0] = 5;
-    cpu.registers[1] = 10;
+    cpu.registers[0] = 5; // 给寄存器赋值
+    cpu.registers[1] = 10;// 给寄存器赋值
 
     cpu.run();
 
